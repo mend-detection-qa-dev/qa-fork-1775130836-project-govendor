@@ -1,0 +1,31 @@
+{
+    "comment": "govendor vendor.json — managed by the `govendor` tool.",
+    "ignore": "test",
+    "package": [
+        {
+            "checksumSHA1": "nbTJBBMFNRXFGCFkNa8IBTTt3SA=",
+            "path": "github.com/fatih/color",
+            "revision": "5b77d2a35fb0ede96d138fc9a99b60f3b4ce0a4f",
+            "revisionTime": "2018-01-01T00:00:00Z",
+            "version": "v1.7.0",
+            "versionExact": "v1.7.0"
+        },
+        {
+            "checksumSHA1": "kpNd9QiMq0gHKtjBz4yJsRkUFZI=",
+            "path": "github.com/mattn/go-colorable",
+            "revision": "167de6bfdfba052fa6b2d3664c8f5272e23e9a8d",
+            "revisionTime": "2017-06-20T00:00:00Z",
+            "version": "v0.0.9",
+            "versionExact": "v0.0.9"
+        },
+        {
+            "checksumSHA1": "xbNl9BZvFMwHIz5QHNKSP3PJKWY=",
+            "path": "github.com/mattn/go-isatty",
+            "revision": "fc9e8d8ef48496124e79ae0df75490096eccf6fe",
+            "revisionTime": "2017-03-20T00:00:00Z",
+            "version": "v0.0.3",
+            "versionExact": "v0.0.3"
+        }
+    ],
+    "rootPath": "github.com/example/myapp"
+}
